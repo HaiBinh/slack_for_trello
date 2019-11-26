@@ -1,0 +1,6 @@
+export SLACK_TOKEN=xoxb-816489230326-847043291989-7SgIK3AkXvVZRtvaim7hudHm
+export SLACK_MESSAGE_URL=https://hooks.slack.com/services/path/to/reply
+export TRELLO_API_KEY=8e6c0b5d86a5f60ed6809ecd46ee4625
+export TRELLO_BOARD_ID=https://trello.com/haibinh14/boards
+export TRELLO_LIST_ID=https://trello.com/b/ffhORib2/demo-zato
+export TRELLO_TOKEN=8d2b6ed4a76691cb904428c43c15dbbdd7280a108019976157babef3e52cb52c
